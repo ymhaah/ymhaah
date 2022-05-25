@@ -1,8 +1,10 @@
 # Hi there, I am yousef !
-
+## about me:
+<p align="left">I am a self-taught front-end developer  From Egypt and I plan to be a full-stack developer at the end of the year.</p>
 <img src="https://github-readme-stats.vercel.app/api?username=ymhaah&show_icons=true" align="left" width="47%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymhaah&layout=compact" align="left" width="47%" />
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -35,7 +37,6 @@
 
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="git" width="60" height="60"/>
 
-  
-
-  
 </p> 
+
+
