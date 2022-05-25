@@ -18,7 +18,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" alt="css" width="60" height="60"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/>
- <img src="https://user-images.githubusercontent.com/77534098/170332269-e3caca33-163e-4993-a478-3750007b05df.png" alt="pugjs" width="60" height="60"/>
+ <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/6e9e5f5bde3487521d41f0a8044fd94ebd5f1e08/icons/pug.svg" alt="pugjs" width="60" height="60"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="60" height="60"/>
  
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
@@ -28,14 +28,15 @@
  <p align="left">
 
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" alt="npm" width="60" height="60"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="60" height="60"/>
+ <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/6e9e5f5bde3487521d41f0a8044fd94ebd5f1e08/icons/webpack.svg" alt="webpack" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gulp/gulp-plain.svg" alt="gulp" width="60" height="60"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-original.svg" alt="wordpress" width="60" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/woocommerce/woocommerce-original-wordmark.svg" alt="woocommerce" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/6e9e5f5bde3487521d41f0a8044fd94ebd5f1e08/icons/git.svg" alt="git" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" alt="github" width="60" height="60"/>
 
 
- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="git" width="60" height="60"/>
+
 
 </p> 
 
