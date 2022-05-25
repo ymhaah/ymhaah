@@ -5,8 +5,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymhaah&layout=compact" align="left" width="47%" />
 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hafanwi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
@@ -20,7 +18,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" alt="css" width="60" height="60"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/>
- <img src="https://www.nodejsera.com/library/assets/img/pug-logo.png" alt="pugjs" width="60" height="60"/>
+ <img src="https://user-images.githubusercontent.com/77534098/170332269-e3caca33-163e-4993-a478-3750007b05df.png" alt="pugjs" width="60" height="60"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="60" height="60"/>
  
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
