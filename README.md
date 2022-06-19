@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hafanwi" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" height="40" width="40" margin-right="10px" /></a>
-<a href="https://www.linkedin.com/in/yousef-mohamed-348221204/" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1654945545~hmac=a44cc0134ce4ce2eb37acc6f57fc9868" alt="linkedin" height="40" width="40" margin-right="10px" /></a>
-<a href="https://www.instagram.com/yousef_hafnawi/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="40" width="40" margin-right="10px" /></a>
+<a href="https://twitter.com/hafanwi" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" height="40" width="40"/></a>
+<a href="https://www.linkedin.com/in/yousef-mohamed-348221204/" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1655660103~hmac=0a6d3dffdc3e9473efe9c692edce6d8b" alt="linkedin" height="40" width="40"/></a>
+<a href="https://www.instagram.com/yousef_hafnawi/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="40" width="40"/></a>
 </p> 
 <p align="left"></p> 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,6 +30,7 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" alt="npm" width="60" height="60"/>
  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/6e9e5f5bde3487521d41f0a8044fd94ebd5f1e08/icons/webpack.svg" alt="webpack" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gulp/gulp-plain.svg" alt="gulp" width="60" height="60"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/800px-Vitejs-logo.svg.png" alt="vite" width="60" height="60"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-original.svg" alt="wordpress" width="60" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/woocommerce/woocommerce-original-wordmark.svg" alt="woocommerce" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/6e9e5f5bde3487521d41f0a8044fd94ebd5f1e08/icons/git.svg" alt="git" width="60" height="60"/>
