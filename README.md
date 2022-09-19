@@ -44,7 +44,7 @@
  <p align="left">
  
  <img src="https://greensock.com/uploads/monthly_2020_03/tweenmax.png.cf27916e926fbb328ff214f66b4c8429.png" title="Gsap" alt="Gsap" width="60" height="60"/>
- <img src="https://aws1.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="Threejs" title="Threejs" width="60" height="60"/>
+ <img src="https://user-images.githubusercontent.com/77534098/191093846-c86ad1d5-f66b-458c-bc39-4c27e88b8357.png" alt="Threejs" title="Threejs" width="60" height="60"/>
  <img src="https://user-images.githubusercontent.com/4596862/58807621-67aeec00-85e6-11e9-8e3a-3fe4123ee76c.png" alt="Locomotive Scroll" title="Locomotive Scroll" width="60" height="60"/>
 
  </p> 
