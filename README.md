@@ -1,15 +1,14 @@
 # Hi there, I am yousef !
 ## about me:
-<p align="left">I am a self-taught front-end developer  From Egypt and I plan to be a full-stack developer at the end of the year.</p>
+<p align="left">I am a Front-End developer With two years of experience in the field, With more than 20 different projects.</p>
 <img src="https://github-readme-stats.vercel.app/api?username=ymhaah&show_icons=true" align="left" width="47%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymhaah&layout=compact" align="left" width="47%" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hafanwi" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" title="twitter" height="40" width="40"/></a>
+<a href="https://twitter.com/hafanwi" target="blank" style="margin: 0 1rem 00"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" title="twitter" height="40" width="40"/></a>
 <a href="https://www.linkedin.com/in/yousef-mohamed-348221204/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="linkedin" title="linkedin" height="40" width="40"/></a>
-<a href="https://www.instagram.com/yousef_hafnawi/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" title="instagram" height="40" width="40"/></a>
 </p> 
 <p align="left"></p> 
 <h3 align="left">Languages and Tools:</h3>
