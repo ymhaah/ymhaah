@@ -1,9 +1,15 @@
 # Hi there, I am yousef !
 ## about me:
 <p align="left">I am a Front-End developer With two years of experience in the field, With more than 20 different projects.</p>
-<img src="https://github-readme-stats.vercel.app/api?username=ymhaah&show_icons=true" align="left" width="47%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymhaah&layout=compact" align="left" width="47%" />
+<div width="100%%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ymhaah&show_icons=true" align="left" width="50%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymhaah&layout=compact" align="left" width="50%" />
+</div>
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
