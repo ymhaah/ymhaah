@@ -1,9 +1,9 @@
-# Hi there, I am yousef !
+# Hi there, I am Youssef 🤚
 
 <div width="100vw">
-  <img src="https://github-readme-stats.vercel.app/api?username=ymhaah&show_icons=true" align="left" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ymhaah&show_icons=true" align="left" width="50%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymhaah&layout=compact" align="left" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymhaah&layout=compact" align="left" width="46%" hight="10%"/>
 </div>
 
 ## Connect with me:
