@@ -1,23 +1,18 @@
 # Hi there, I am yousef !
-## about me:
-<p align="left">I am a Front-End developer With two years of experience in the field, With more than 20 different projects.</p>
 
-<div width="100%%">
-  <img src="https://github-readme-stats.vercel.app/api?username=ymhaah&show_icons=true" align="left" width="50%" />
+<div width="100vw">
+  <img src="https://github-readme-stats.vercel.app/api?username=ymhaah&show_icons=true" align="left" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymhaah&layout=compact" align="left" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymhaah&layout=compact" align="left" width="100%"/>
 </div>
 
-
-
-
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <p align="left">
 <a href="https://twitter.com/hafanwi" target="blank" style="margin: 0 1rem 00"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" title="twitter" height="40" width="40"/></a>
 <a href="https://www.linkedin.com/in/yousef-mohamed-348221204/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="linkedin" title="linkedin" height="40" width="40"/></a>
 </p> 
-<p align="left"></p> 
-<h3 align="left">Languages and Tools:</h3>
+
+## Languages and Tools
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" alt="html" title="html" width="60" height="60"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" alt="css" title="css" width="60" height="60"/>
