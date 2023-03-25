@@ -10,6 +10,7 @@
 <p align="left">
 <a href="https://twitter.com/hafanwi" target="blank" style="margin: 0 1rem 00"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" title="twitter" height="40" width="40"/></a>
 <a href="https://www.linkedin.com/in/yousef-mohamed-348221204/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="linkedin" title="linkedin" height="40" width="40"/></a>
+  <a href="https://dev.to/ymhaah" target="blank"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--R9qwOwpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" align="center" title="dev.to" height="40" width="40"></img></a>
 </p> 
 
 ## Languages and Tools
