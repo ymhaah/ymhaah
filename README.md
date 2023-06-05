@@ -50,7 +50,6 @@
 
  </p> 
 
-![Snake animation](https://github.com/ymhaah/ymhaah/github-contribution-grid-snake.svg)
 
 
 
