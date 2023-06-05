@@ -50,7 +50,7 @@
 
  </p> 
 
-<img src="https://raw.githubusercontent.com/ymhaah/ymhaah/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/ymhaah/ymhaah/github-contribution-grid-snake.svg)
 
 
 
