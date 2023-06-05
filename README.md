@@ -50,3 +50,10 @@
 
  </p> 
 
+<img src="https://raw.githubusercontent.com/ymhaah/ymhaah/output/snake.svg" alt="Snake animation" />
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
