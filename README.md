@@ -24,7 +24,7 @@ That is why I exist; to create custom websites that are tailored to the needs of
 		/>
   	</a>
 	<a 
-		href="linkedinhttps://www.linkedin.com/in/youssef-hafnawy"
+		href="https://www.linkedin.com/in/youssef-hafnawy"
 		target="_blank"
 		style="margin: 0.5rem"
 	>
