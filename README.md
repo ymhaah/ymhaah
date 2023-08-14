@@ -17,7 +17,7 @@ That is why I exist; to create custom websites that are tailored to the needs of
   	>
 		<img 
 			src="https://cdn-icons-png.flaticon.com/512/733/733579.png"
-			alt="twitter"
+			alt="Twitter"
 			height="50"
 			width="50"
 			align="center"
@@ -30,7 +30,7 @@ That is why I exist; to create custom websites that are tailored to the needs of
 	>
 		<img 
 			src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png"
-			alt="linkedIn"
+			alt="LinkedIn"
 			height="50"
 			width="50"
 			align="center"
@@ -111,7 +111,7 @@ That is why I exist; to create custom websites that are tailored to the needs of
 		title="30-Day React Learning Journey!"
 	>
 		<img 
-			src="https://res.cloudinary.com/practicaldev/image/fetch/s--SWAHpt4p--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9fcbmk4a7exj6b5jeqmg.jpg" 
+			src="https://res.cloudinary.com/practicaldev/image/fetch/s--iuLD8TrP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6tis9y9gh9q83topus1c.png" 
 			alt="30-Day React Learning Journey!" 
 			width="200" 
 			height="100"
