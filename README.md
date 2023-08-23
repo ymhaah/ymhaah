@@ -1,9 +1,9 @@
-# Hi there, Youssef Hafnawy 👨‍💻
+# Hi there, Youssef Hefnawy 👨‍💻
 
 ![main](https://github.com/ymhaah/ymhaah/assets/77534098/556ee646-8eef-4cb3-82e8-6058cd25fe02)
 `Front-end | Website developer`
 
-My name is **Youssef Hafnawy** and I’m a Website developer 🖥️ Specializing in creating a personal landing page that provides a Creative Power that goes way beyond templates 🌍
+My name is **Youssef Hefnawy** and I’m a Website developer 🖥️ Specializing in creating a personal landing page that provides a Creative Power that goes way beyond templates 🌍
 
 That is why I exist; to create custom websites that are tailored to the needs of my clients, Something you can't get from a template using the latest technologies 📈
 
