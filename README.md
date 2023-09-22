@@ -1,4 +1,4 @@
-# Hi there, Youssef Hefnawy 👨‍💻
+# Hi there, Youssef Hefnawy 
 
 ![main](https://github.com/ymhaah/ymhaah/assets/77534098/556ee646-8eef-4cb3-82e8-6058cd25fe02)
 `Front-end | Website developer`
