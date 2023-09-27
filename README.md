@@ -98,7 +98,7 @@ That is why I exist; to create custom websites that are tailored to the needs of
 		</strong>
 	</a>
 	<p>
-		As a front-end developer, from the moment you write the first HTML line to....
+		As a front-end developer, from the moment you write the first HTML line to...
 	</p>
 </p>
 
