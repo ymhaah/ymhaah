@@ -232,11 +232,11 @@ That is why I exist; to create custom websites that are tailored to the needs of
 			/>
 	</a>
 	<a 
-	href="https://www.npmjs.com/" target="_blank">
+	href="https://pnpm.io/" target="_blank">
 		<img 
-			src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" 
-			alt="npmJs"
-			title="npmJs"
+			src="https://github.com/ymhaah/ymhaah/assets/77534098/57d38565-03f5-45a5-b6f0-f1b087bd9525" 
+			alt="npm/pnpm"
+			title="npm/pnpm"
 			width="60" 
 			height="60"
 			/>
