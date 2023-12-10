@@ -1,7 +1,7 @@
 # Hi there, Youssef Hefnawy 
 
 ![main](https://github.com/ymhaah/ymhaah/assets/77534098/556ee646-8eef-4cb3-82e8-6058cd25fe02)
-`Front-end | Website developer`
+`Front-end | Web developer | React developer | Typescript developer`
 
 My name is **Youssef Hefnawy** and I’m a Website developer 🖥️ Specializing in creating a personal landing page that provides a Creative Power that goes way beyond templates 🌍
 
