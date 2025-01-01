@@ -16,7 +16,7 @@ That is why I exist; to create custom websites that are tailored to the needs of
 		style="margin: 0.5rem"
   	>
 		<img 
-			src="https://cdn-icons-png.flaticon.com/512/733/733579.png"
+			src="https://cdn-icons-png.flaticon.com/128/5968/5968830.png"
 			alt="Twitter"
 			height="50"
 			width="50"
