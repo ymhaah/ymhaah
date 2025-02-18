@@ -204,7 +204,7 @@ That is why I exist; to create custom websites that are tailored to the needs of
 	<a 
 	href="https://greensock.com/gsap/" target="_blank">
 		<img 
-			src="https://seeklogo.com/images/G/greensock-gsap-icon-logo-13BB451E88-seeklogo.com.png" 
+			src="https://gsap.com/community/uploads/monthly_2020_03/tweenmax.thumb.png.c849c5b56c6752e3f2276b82ee702625.png" 
 			alt="greenSock"
 			title="greenSock"
 			width="60" 
