@@ -11,7 +11,7 @@ That is why I exist; to create custom websites that are tailored to the needs of
 
 <p align="left" style="white-space: nowrap">
 	<a 
-		href="https://twitter.com/hafanwy"
+		href="https://x.com/hafanwy"
 		target="_blank"
 		style="margin: 0.5rem"
   	>
@@ -24,7 +24,7 @@ That is why I exist; to create custom websites that are tailored to the needs of
 		/>
   	</a>
 	<a 
-		href="https://www.linkedin.com/in/youssef-hafnawy"
+		href="https://www.linkedin.com/in/youssef-hefnawy/"
 		target="_blank"
 		style="margin: 0.5rem"
 	>
